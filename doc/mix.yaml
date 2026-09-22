@@ -25,7 +25,7 @@ layers:
   - O
   - P
   - \
-  - CAPS
+  - {t: CAPSLOCK, h: L3}
   - A
   - S
   - D
@@ -208,7 +208,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
   - MUTE
   - Gui+D
